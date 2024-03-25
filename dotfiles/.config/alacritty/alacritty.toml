@@ -1,0 +1,15 @@
+import = [
+  '~/.config/alacritty/ecwk.toml'
+]
+
+[window]
+opacity = 0.8
+padding = { x = 10, y = 10 }
+
+[cursor]
+style = 'Underline'
+
+[font]
+normal = { family = "HackNerdFont", style = "Regular" }
+offset = { y = 4 }
+
