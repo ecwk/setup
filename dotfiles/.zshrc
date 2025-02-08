@@ -128,8 +128,8 @@ eval "$(pyenv init -)"
 
 # History file settings
 # HISTFILE=~/.zsh_history
-HISTSIZE=1000
-SAVEHIST=1000
+HISTSIZE=5000
+SAVEHIST=1000000
 
 # Terminal Mode (-e emacs, -v vi)
 bindkey -e
